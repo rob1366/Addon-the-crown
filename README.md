@@ -3,7 +3,7 @@
 <items>
 
 <item>
-<title>[B][COLOR purple]nome [/COLOR] [COLOR red] Dublado [/COLOR][/B]</title>
+<title>[B][COLOR purple] [/COLOR] [COLOR red] Dublado [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
 <genre></genre>
