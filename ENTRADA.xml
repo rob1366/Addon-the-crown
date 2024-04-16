@@ -4,18 +4,18 @@
 
 
 <channel>
-<name>[B][COLOR red] Filmes [/COLOR][/B] </name>
+<name>[B][COLOR red]Filmes[/COLOR][/B] </name>
 <thumbnail>https://archive.org/download/thecrown_202404/thecrown.jpg</thumbnail>
 <fanart>https://archive.org/download/thecrown_202404/thecrown.jpg</fanart>
-<info>[COLOR red]* [COLOR blue] Bem vindo ao addon the crown Filmes uso pessoal [/COLOR]</info>
+<info>[COLOR red]* [COLOR blue]Bem vindo ao addon the crown Filmes uso pessoal[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/rob1366/Addon-the-crown/main/Filmes.xml</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR purple] Séries [/COLOR][/B] </name>
+<name>[B][COLOR purple]Séries[/COLOR][/B] </name>
 <thumbnail>https://archive.org/download/thecrown_202404/thecrown.jpg</thumbnail>
 <fanart>https://archive.org/download/thecrown_202404/thecrown.jpg</fanart>
-<info>[COLOR purple]* [COLOR blue] Bem vindo ao addon the crown Séries [/COLOR]</info>
+<info>[COLOR purple]* [COLOR blue]Bem vindo ao addon the crown Séries uso pessoal[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/rob1366/Addon-the-crown/main/S%C3%A9ries.xml</externallink>
 </channel>
 
