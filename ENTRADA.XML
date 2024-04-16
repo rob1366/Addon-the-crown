@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+
+<channel>
+<name>[B][COLOR red] Filmes [/COLOR][/B] </name>
+<thumbnail>https://archive.org/download/horse_20240414/horse.jpg</thumbnail>
+<fanart>https://archive.org/download/horse_20240414/horse.jpg</fanart>
+<info>[COLOR red]* [COLOR blue] Bem vindo ao addon Big Horse Filmes uso pessoal [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/FILMES.XML</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR purple] Séries [/COLOR][/B] </name>
+<thumbnail>https://archive.org/download/b-484ed-07-3a-63-4f-15-8ce-3-facd-0b-216f-12/_b484ed07-3a63-4f15-8ce3-facd0b216f12.jpg</thumbnail>
+<fanart>https://archive.org/download/b-484ed-07-3a-63-4f-15-8ce-3-facd-0b-216f-12/_b484ed07-3a63-4f15-8ce3-facd0b216f12.jpg</fanart>
+<info>[COLOR purple]* [COLOR blue] Bem vindo ao addon Big Horse Séries [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/outeiro13/EmuELEC/main/S%C3%89RIES.XML</externallink>
+</channel>
+
+</channels>
