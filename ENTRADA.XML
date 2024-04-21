@@ -19,15 +19,15 @@
 </channel>
 
 <channel>
-<name>[B][COLOR purple]Desenhos[/COLOR][/B]</name>
+<name>[B][COLOR red]Desenhos[/COLOR] [COLOR purple]Dublados e Legendados[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/7ced-1292-aab-7-4ccd-85e-3-0cf-7dd-29984d/_7ced1292-aab7-4ccd-85e3-0cf7dd29984d.jpg</thumbnail>
 <fanart>https://archive.org/download/7ced-1292-aab-7-4ccd-85e-3-0cf-7dd-29984d/_7ced1292-aab7-4ccd-85e3-0cf7dd29984d.jpg</fanart>
 <info>[COLOR purple]* [COLOR blue] Bem vindo ao addon the crown Desenhos [/COLOR]</info>
-<externallink>https:gree//raw.githubusercontent.com/rob1366/Addon-the-crown/main/DESENHOS.XML</externallink>
+<externallink>https://raw.githubusercontent.com/rob1366/Addon-the-crown/main/DESENHOS.XML</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR green]Animes[/COLOR][/B]</name>
+<name>[B][COLOR red]Animes[/COLOR] [COLOR purple]Dublados e Legendados[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/c-15b-23d-4-c-42f-4409-92b-9-b-381e-3f-1e-07d/_c15b23d4-c42f-4409-92b9-b381e3f1e07d.jpg</thumbnail>
 <fanart>https://archive.org/download/c-15b-23d-4-c-42f-4409-92b-9-b-381e-3f-1e-07d/_c15b23d4-c42f-4409-92b9-b381e3f1e07d.jpg</fanart>
 <info>[COLOR purple]* [COLOR blue] Bem vindo ao addon the crown Animes [/COLOR]</info>
