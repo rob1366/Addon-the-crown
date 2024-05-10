@@ -91,11 +91,11 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]Conteudo Adulto +18[/COLOR] [COLOR red]Cuidado Proibido para Menores[/COLOR][/B]</name>
+<name>[B][COLOR yellow]Conteudo Adulto +18-2[/COLOR] [COLOR red]Cuidado Proibido para Menores[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fanart_20240424/fanart.jpg</thumbnail>
 <fanart>https://archive.org/download/fanart_20240424/fanart.jpg</fanart>
 <info>[COLOR purple]* [COLOR blue] Bem vindo ao addon the crown CONTEUDO ADULTO +18 [/COLOR]</info>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/rob1366/Addon-the-crown/main/CONTEUDOADULTO%2B18-2.XML</externallink>
 </channel>
 
 </channels>
