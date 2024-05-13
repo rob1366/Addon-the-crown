@@ -36,6 +36,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR yellow]Conteudo filmes Diversos Direto[/COLOR] [COLOR red]Sem Nessecidade do Elemuntun[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/fanart_20240424/fanart.jpg</thumbnail>
+<fanart>https://archive.org/download/fanart_20240424/fanart.jpg</fanart>
+<info>[COLOR purple]* [COLOR blue] Bem vindo ao addon the crown ConteudoAdulto+18 [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/rob1366/Addon-the-crown/main/CONTEUDOFILMESDIVERSOS.XML</externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR green]Séries Lançamentos 2024[/COLOR] [COLOR yellow]Dubladas e Legendadas 2024[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/5ff-87806-1de-3-461d-a-37b-a-8b-39a-7b-6719_202405/_5ff87806-1de3-461d-a37b-a8b39a7b6719.jpg</thumbnail>
 <fanart>https://archive.org/download/5ff-87806-1de-3-461d-a-37b-a-8b-39a-7b-6719_202405/_5ff87806-1de3-461d-a37b-a8b39a7b6719.jpg</fanart>
@@ -97,14 +105,6 @@
 <fanart>https://archive.org/download/fanart_20240424/fanart.jpg</fanart>
 <info>[COLOR purple]* [COLOR blue] Bem vindo ao addon the crown Tvonline [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/rob1366/Addon-the-crown/main/TVONLINE2.XML</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR yellow]Conteudo filmes Diverso Direto[/COLOR] [COLOR red]Sem Nessecidade do Elemuntun[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/fanart_20240424/fanart.jpg</thumbnail>
-<fanart>https://archive.org/download/fanart_20240424/fanart.jpg</fanart>
-<info>[COLOR purple]* [COLOR blue] Bem vindo ao addon the crown ConteudoAdulto+18 [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/rob1366/Addon-the-crown/main/CONTEUDOFILMESDIVERSOS.XML</externallink>
 </channel>
 
 <channel>
