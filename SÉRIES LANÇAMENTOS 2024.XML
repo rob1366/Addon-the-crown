@@ -670,8 +670,18 @@
 <info>Um plebeu que vive na Grécia antiga descobre que é filho de Zeus e que seu propósito é salvar o mundo de um exército demoníaco.</info>
 </item>
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
+<item>
+<title>[B][COLOR green]Série - O Véu / The Veil - 1ª Temporada [/COLOR] [COLOR yellow] Dublada & Legendada[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cb7eeed5b625918d9cadd6568fffaa63c0980c6&dn=The.Veil.2024.S01E01.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]Temporada 1 - Episódio 1[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44856830d518e03eeae0bbf1286e0286bdff71d1&dn=The.Veil.2024.S01E02.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]Temporada 1 - Episódio 2[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SC7QSMJJEZAWZ3NEYRT4NIICELLUDMMT&dn=O%20V%C3%A9u%20S01E03%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce$nome=[B]Temporada 1 - Episódio 3[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d665b2f92b5bcbffcc7cdc3842f92c8312a1f0f6&dn=The%20Veil%202024%20S01E04%201080p%20WEB-DL%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]Temporada 1 - Episódio 4[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb937af7489937203d63fc02968438a98fed8aa4&dn=The.Veil.2024.S01E05.HDR.2160p.WEB.H265-PortableStarfishOfRadicalMastery[TGx]&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce$nome=[B]Temporada 1 - Episódio 5[/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1XeQD7bO7ZOqgF8r4zJuD4hREzF.jpg</thumbnail>
+<genre>Drama</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1XeQD7bO7ZOqgF8r4zJuD4hREzF.jpg</fanart>
+<info>Duas mulheres jogam um jogo de verdades e mentiras no caminho de Istambul para Paris e Londres.</info>
+</item>
 
 <item>
 <title>O Véu / The Veil - 1ª Temporada Episódio 01 (2024)</title>
@@ -708,10 +718,6 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1XeQD7bO7ZOqgF8r4zJuD4hREzF.jpg</fanart>
 <info>Duas mulheres jogam um jogo de verdades e mentiras no caminho de Istambul para Paris e Londres.</info>
 </item>
-
-
-
-</items>
 
 <item>
 <title>Parasyte - The Grey - 1ª Temporada Dublada / Dual Áudio 2024</title>
