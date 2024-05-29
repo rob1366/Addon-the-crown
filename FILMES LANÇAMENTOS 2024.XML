@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+<title>teste drop</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sx/v/3nzj0qxnswkd1z</link>
+<thumbnail></thumbnail>
+<genre>Drama, Aventura, Ação</genre>
+<fanart></fanart>
+<info></info>
+</item>
 
 <item>
 <title>All You Need Is Death - Legendado - (2024)</title>
