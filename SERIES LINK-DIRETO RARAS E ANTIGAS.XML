@@ -2,6 +2,17 @@
 
 <items>
 
+
+
+<item>
+<title>Ash direto</title>
+<link>plugin://plugin.video.elementum/play?uri=https://streamtape.com/v/G2Vbp7JMBLC1xo9$nome=[B]Temporada 1 - Episódio 1[/B]</link>
+<thumbnail></thumbnail>
+<genre></genre>
+<fanart></fanart>
+<info></info>
+</item>
+
 <item>
 <title>Ash vs Evil Dead - EPISÓDIO 01 -(2015)</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/6k80KoQ1QOU9Jpx/ASHVSEVILT01EP01.mp4</link>
